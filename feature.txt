@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a new feature.
+=======
+This is a conflicting line.
+>>>>>>> feature-branch
 This is another conflicting line.
