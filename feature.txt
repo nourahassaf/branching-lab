@@ -1,0 +1,2 @@
+This is a conflicting line.
+This is another conflicting line.
